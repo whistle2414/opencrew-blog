@@ -1,0 +1,1 @@
+CONTEXT={'default_tone':'informative','default_length':'medium','default_language':'ko','forbidden_phrases':['AI가 작성했습니다','ChatGPT'],'default_status':'draft','require_validation_before_save':True}
